@@ -4,9 +4,12 @@
 硬件设计Altium Designer相关库资源
 
 #### 
+
 # 使用说明
 
 CAP文件夹保存的是电容类的原理图库、PCB封装库、3D模型、规格书
+
+CONN文件夹保存的是连接器类库
 
 
 
@@ -47,5 +50,4 @@ RES
 CONN_FFC
 
 CONN_FFC_MOLEX
-
 
